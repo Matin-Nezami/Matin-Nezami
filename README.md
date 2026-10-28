@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071526,50:123B5D,100:DDBB72&height=200&section=header&text=Matin Nezami&fontSize=48&fontColor=F8E7BD&animation=fadeIn&fontAlignY=35" width="100%" alt="Matin Nezami banner" />
+# Matin Nezami
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DDBB72&center=true&vCenter=true&width=750&lines=Python+Programmer+%F0%9F%90%8D;Web+Designer+%F0%9F%92%BB;English+Teacher+%F0%9F%93%9A;Swimming+Coach+%26+Athlete+%F0%9F%8F%8A" alt="Typing animation" />
 
