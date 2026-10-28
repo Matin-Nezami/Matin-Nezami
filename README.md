@@ -137,19 +137,6 @@ My teaching approach focuses on communication, participation, and helping learne
 - Persian — Native
 - English — Advanced
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mahdikhoraj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdikhoraj&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdikhoraj&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
-
-</div>
 
 ---
 
