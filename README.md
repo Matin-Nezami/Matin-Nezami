@@ -148,17 +148,6 @@ My teaching approach focuses on communication, participation, and helping learne
 - Continue growing as an English teacher and swimming coach.
 - Collaborate on meaningful projects and learn from other developers.
 
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Mahdikhoraj">
-  <img src="https://img.shields.io/badge/GitHub-Visit My Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-
-</div>
 
 ---
 
