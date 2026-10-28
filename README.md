@@ -134,9 +134,7 @@ My teaching approach focuses on communication, participation, and helping learne
 
 ## 🌍 Languages
 
-- Per
-
-sian — Native
+- Persian — Native
 - English — Advanced
 
 ---
