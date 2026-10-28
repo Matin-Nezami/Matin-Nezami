@@ -1,10 +1,16 @@
 ## Hi there 👋
 <div align="center">
 
-# Matin Nezami
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071526,50:123B5D,100:DDBB72&height=200&section=header&text=Matin Nezami&fontSize=48&fontColor=F8E7BD&animation=fadeIn&fontAlignY=35" width="100%" alt="Matin Nezami banner" />
 
-### English Teacher | Web Designer | Python Programmer
-### Swimming Coach & Athlete
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DDBB72&center=true&vCenter=true&width=750&lines=Python+Programmer+%F0%9F%90%8D;Web+Designer+%F0%9F%92%BB;English+Teacher+%F0%9F%93%9A;Swimming+Coach+%26+Athlete+%F0%9F%8F%8A" alt="Typing animation" />
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Web-Design-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web Design" />
+  <img src="https://img.shields.io/badge/English-Teaching-1D6F9C?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="English Teaching" />
+  <img src="https://img.shields.io/badge/Swimming-Coaching-0077B6?style=for-the-badge&logoColor=white" alt="Swimming" />
+</p>
 
 *Technology • Education • Sports • Continuous Growth
 
@@ -12,35 +18,39 @@
 
 ---
 
-## 👤 Profile
+## 👋 About Me
 
-I am an English teacher, web designer, Python programmer, swimming coach, and athlete with a strong passion for technology, education, and continuous learning.
+I'm Matin Nezami, an aspiring Python developer, web designer, English teacher, swimming coach, and athlete.
 
-As an English teacher, I have a strong command of spoken English and the ability to teach grammar, academic reading, writing, and listening skills. I enjoy creating a positive and supportive learning environment where students feel comfortable asking questions, practicing, and improving step by step.
+- 🐍 Learning Python and improving my programming skills.
+- 💻 Interested in web design and development.
+- 📊 Exploring data mining and data science.
+- 📚 Teaching English with a focus on communication and student engagement.
+- 🏊‍♂️ Passionate about swimming, athletic development, and coaching.
+- 🚀 Building projects to gain practical experience and grow professionally.
 
-I have a natural ability to connect with children and build positive, friendly, and trusting relationships with them. I understand the importance of making learning enjoyable, engaging, and age-appropriate. I use interactive games, educational videos, visual aids, and other creative teaching tools to explain concepts effectively, maintain children's interest, and encourage active participation.
-
-As a computer engineering student and aspiring developer, I am interested in learning new technologies and improving my technical skills. I enjoy programming, web design, and data mining, and I am continuously working to expand my knowledge through practical projects.
-
-Alongside technology and teaching, I am passionate about swimming and coaching. I enjoy helping swimmers improve their technique, confidence, and performance.
-
-My goal is to continue developing across technology, education, and sports while making a positive impact on the people I work with and teach.
+I believe in continuous learning, consistent effort, and turning knowledge into practical skills.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-### Programming & Web Development
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,html,css,js,wordpress,git,github,vscode&theme=dark" alt="Technology icons" />
+
+</div>
+
+### 💻 Programming & Web Development
+
+- Python programming
 - HTML, CSS, and JavaScript
-- Python Programming
-- Web Design and UI/UX
+- WebStorm
+- Web design and UI/UX
 - WordPress
 - Git and GitHub
-- Problem Solving
-- Data Mining and Data Analysis
 
-### Data Science & Machine Learning Tools
+### 📊 Data Science & Data Mining
 
 - NumPy
 - Pandas
@@ -49,23 +59,12 @@ My goal is to continue developing across technology, education, and sports while
 - Scikit-learn
 - jupyter notebook
 
-### Teaching & Coaching
+### 🎓 Teaching & Coaching
 
-- English Grammar Instruction
-- Academic Reading and Writing
-- Listening and Speaking Skills
-- Classroom Communication
-- Interactive and Child-Friendly Teaching
-- Swimming Instruction and Coaching
-
-### Professional Skills
-
-- Communication and Teamwork
-- Adaptability
-- Responsibility
-- Attention to Detail
-- Quick Learning
-- Goal-Oriented Mindset
+- English grammar, reading, writing, listening, and speaking
+- Interactive English teaching
+- Child-friendly learning activities
+- Swimming instruction and coaching
 
 ---
 
@@ -74,33 +73,30 @@ My goal is to continue developing across technology, education, and sports while
 ### 🏊‍♂️ Swimming Coach & Instructor
 Amir Morshed Championship Team | 2025 – Present
 
-- Support swimmers in improving their swimming technique and performance.
-- Assist swimmers at different skill levels, from beginners to more experienced athletes.
-- Encourage discipline, confidence, and continuous improvement through training.
+- Help swimmers improve their technique and performance.
+- Support athletes at different skill levels.
+- Encourage discipline, confidence, and continuous improvement.
 
 ### 📚 English Teacher
 Zomar Language Institute | 2026 – Present
 
-- Teach English language skills in a supportive learning environment.
-- Help students improve grammar, reading, writing, listening, and speaking.
-- Use interactive activities and age-appropriate teaching methods.
-- Encourage student participation and confidence in using English.
+- Teach English in a supportive learning environment.
+- Help students develop their four essential language skills.
+- Use interactive activities to encourage participation and confidence.
 
 ### 💻 Web Designer
 Freelance & Personal Projects | 2023 – Present
 
-- Work on website design and development projects.
-- Practice HTML, CSS, JavaScript, and WordPress.
-- Explore user interface design and responsive web layouts.
+- Practice website design and development.
+- Work with HTML, CSS, JavaScript, and WordPress.
+- Explore responsive layouts and user interface design.
 
 ---
 
 ## 🎓 Education
 
-### Computer Engineering
+Computer Engineering*  
 Islamic Azad University – Karaj Branch | 2023 – Present
-
-Currently studying Computer Engineering and developing my technical knowledge and programming skills.
 
 ---
 
@@ -109,82 +105,84 @@ Currently studying Computer Engineering and developing my technical knowledge an
 - TTC – Teacher Training Course | Zomar Language Institute, 2026
 - Web Design | Tehran Technical Complex, 2024
 - Python Programming | Tehran Technical Complex, 2025
-- Data Mining* | Tehran Technical Complex, 2026
+- Data Mining | Tehran Technical Complex, 2026
 
 ---
 
-## 🧑‍💻 Technical Experience
+## 🚀 Featured Projects
 
-- Experience with HTML, CSS, and JavaScript for web development.
-- Python programming practice through learning and projects.
-- Familiarity with NumPy, Pandas, Matplotlib, and Seaborn.
-- Experience using Git and GitHub for version control and project management.
-- Familiarity with WordPress and website design.
-- Interest in
+### 🩺 Kidney Disease Prediction
+A machine learning classification project focused on predicting kidney disease using a dataset.
 
-data mining, data analysis, and machine learning.
-- Ability to work independently and collaboratively while learning new technologies.
+### 🐍 Python Projects
+Programming exercises and practical projects developed while learning Python.
+
+### 🌐 Web Design Projects
+Website design and development projects focused on layout, usability, and responsive design.
 
 ---
 
 ## 📖 English Teaching Materials
 
-I have experience working with the following English learning textbooks:
-
 - Family and Friends
 - Starter
 - Top Notch
 
-My teaching approach focuses on communication, active participation, and developing all four essential English skills: reading, writing, listening, and speaking.
+My teaching approach focuses on communication, participation, and helping learners improve step by step.
 
 ---
 
 ## 🌍 Languages
 
-- *Persian: Native
-- English:* Advanced
+- Per
+
+sian — Native
+- English — Advanced
 
 ---
 
-## ⭐ Personal Traits
+## 📊 GitHub Analytics
 
-- Responsible and dependable
-- Positive mindset
-- Hardworking
-- Quick learner
-- Goal-oriented
-- Detail-oriented
-- Adaptable and motivated
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mahdikhoraj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-## 🏆 Key Achievements & Goals
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdikhoraj&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-- Continuously developing my programming and web design skills.
-- Working on practical projects to strengthen my technical experience.
-- Pursuing growth in data mining and Python programming.
-- Developing my experience as an English teacher and swimming coach.
-- Working toward future opportunities in technology, education, and sports.
-- Committed to lifelong learning and personal growth.
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdikhoraj&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+
+</div>
 
 ---
 
-## 🎯 Future Goals
+## 🎯 Goals
 
-- Strengthen my Python programming skills.
+- Strengthen my Python programming fundamentals.
 - Build more practical software and data science projects.
-- Improve my web development and UI/UX design abilities.
+- Improve my web development skills.
 - Continue growing as an English teacher and swimming coach.
-- Contribute to meaningful projects and collaborate with other learners and developers.
+- Collaborate on meaningful projects and learn from other developers.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Mahdikhoraj">
+  <img src="https://img.shields.io/badge/GitHub-Visit My Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ Small Steps Make Big Dreams
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1300&color=DDBB72&center=true&vCenter=true&width=650&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Small+Steps+Make+Big+Dreams+%E2%9C%A8" alt="Motivational typing animation" />
 
-Keep learning. Keep building. Keep going.
+*Thanks for visiting my profile!* ⭐
 
-*Thank you for visiting my profile!* ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071526,50:123B5D,100:DDBB72&height=110&section=footer" width="100%" alt="Footer banner" />
 
 </div>
